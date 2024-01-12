@@ -41,9 +41,10 @@
 <p>
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-I'm a seasoned JavaScript UI Developer with a remarkable seven-year journey dedicated to crafting responsive templates for websites and applications, all while ensuring impeccable accessibility standards. My skill set spans a wide range of technologies, including: HTML, CSS, Sass, Bootstrap, JavaScript, TypeScript, jQuery, React JS, Redux, Accessibility, Storybook, RTL, Jest, GraphQL, Git, Jira and many more. I'm specialized in React JS based web app development and design.
+I'm a seasoned <b>JavaScript UI Developer</b> with a remarkable <b>seven-year</b> journey dedicated to crafting <b>responsive templates</b> for websites and applications, all while ensuring impeccable <b>accessibility standards</b>. My skill set spans a wide range of technologies, including: <b>HTML, CSS, Sass, Bootstrap, JavaScript, TypeScript, jQuery, React JS, Redux, Accessibility, Storybook, RTL, Jest, GraphQL, Git, Jira</b> etc. I'm specialized in <b>React JS based web app</b> development and design.
 
-Throughout my career, I've successfully designed and developed diverse web applications, including eCommerce platforms, educational websites, travel booking systems, hotel portals, healthcare applications, real estate platforms, content management systems (CMS) etc. My expertise lies in creating user-friendly and visually appealing interfaces that adapt seamlessly to various devices and screen sizes.
+Throughout my career, I've successfully designed and developed diverse web applications, including <b>eCommerce platforms, educational websites, travel booking systems, hotel portals, healthcare applications, real estate platforms, content management systems (CMS)</b> etc. My expertise lies in creating user-friendly and visually appealing interfaces that adapt seamlessly to various devices and screen sizes. I bring valuable skills in building <b>high-performing presentation layers</b> developing <b>reusable components</b> and <b>optimizing performance</b>.
+
 
 I thrive on solving UI challenges, collaborating with cross-functional teams, and staying up-to-date with the latest industry trends. Effective communication and a commitment to continuous learning are key aspects of my professional journey.
 </p>
