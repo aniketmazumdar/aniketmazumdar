@@ -9,7 +9,7 @@
 
 <p align="center">
 <samp>
-「 <b>JavaScript UI Developer</b> with <b>7 years experience from <b>India</b> 」
+「 <b>JavaScript UI Developer</b> with <b>7 years experience</b> from <b>India</b> 」
 </samp>
 </p>
 <br />
